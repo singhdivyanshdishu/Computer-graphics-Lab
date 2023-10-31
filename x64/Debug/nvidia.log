@@ -1,22 +1,17 @@
 ﻿  cohensutherlandline.cpp
-C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(89,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(89,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(90,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(90,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(91,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(91,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(92,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(92,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(127,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(127,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(128,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(128,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(129,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(129,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(130,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(130,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(145,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  reflection.cpp
-  Generating Code...
+C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(59,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(65,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(115,22): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(115,16): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(116,22): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(116,16): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(117,22): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(117,16): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(118,22): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(118,16): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(122,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(122,16): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(123,21): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\singh\source\repos\nvidia\cohensutherlandline.cpp(123,16): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
   nvidia.vcxproj -> C:\Users\singh\source\repos\nvidia\x64\Debug\nvidia.exe
           1 file(s) copied.
